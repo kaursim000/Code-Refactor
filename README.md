@@ -7,3 +7,6 @@ In this homework assignment I took all the div tags and I made them into semanti
 Here are my URLs 
  https://github.com/kaursim000/Code-Refactor
   https://kaursim000.github.io/Code-Refactor/
+![My CSS](CSSHW1.png)
+![Website Screenshot](HW.png)
+![Website Screenshot](HW1.png)
